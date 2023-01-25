@@ -1,5 +1,5 @@
 # The-Space-Between-Us-Prototype-Build
-A digital prototype of a game for my "Concept Development" 2nd year module.
+A digital prototype of a platforming game made for my "Concept Development" 2nd year module.
 
 I created this as part of a team with 3 other students: Gareth Mason, Malachi Clegg and Lukas Sobolevas.
 My personal contribution was adding music and sound effects, as well as working alongside the team to
