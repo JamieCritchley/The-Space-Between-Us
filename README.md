@@ -1,13 +1,17 @@
 # The-Space-Between-Us-Prototype-Build
-A digital prototype of a platforming game made for my "Concept Development" 2nd year module.
+A digital prototype of a 2 player platforming game made during 2nd year alongside 3 other students: Gareth Mason, Malachi Clegg and Lukas Sobolevas.
+My personal contribution was adding music and sound effects, as well as assistance with designing level layout, mechanics and providing bug fixes for code. The credits section inludes a a full breakdown of all members 
+contributions and sources of visual and audio assets.
 
-I created this as part of a team with 3 other students: Gareth Mason, Malachi Clegg and Lukas Sobolevas.
-My personal contribution was adding music and sound effects, as well as working alongside the team to
-design the level layout, mechanics and finally coding the game. For a full breakdown of all members 
-contributions, the game menu has a credits section. The credits also reference sources of visual and 
-audio assets, as much of this is not our own.
+The distance between the players is central to the main mechanics, and is shown through visual and audio effects. If the players are close, they heal and reduces damage taken from chasing enemies:
 
-This is a digital prototype not a fully complete game, as there are still small bugs, as well as some 
-unpolished visuals and menu features. However, a lot of polish has still been added to the game in order
-to produce an appropriate game feel, and it is not far off how we envisioned its completed form.
+
+
+
+https://github.com/user-attachments/assets/43099c1a-834c-490e-86d5-c82784333794
+
+Distance also affects the speed of certain obstacles in the world, meaning that coordination is required to naviagte:
+
+
+https://github.com/user-attachments/assets/4d9cf2eb-83d4-45e6-9a3e-e6c5808ad9fd
 
