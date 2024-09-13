@@ -1,4 +1,4 @@
-# The-Space-Between-Us-Prototype-Build
+# The Space Between Us
 A digital prototype of a 2 player platforming game made during 2nd year alongside 3 other students: Gareth Mason, Malachi Clegg and Lukas Sobolevas.
 My personal contribution was adding music and sound effects, as well as assistance with designing level layout, mechanics and providing bug fixes for code. The credits section inludes a a full breakdown of all members 
 contributions and sources of visual and audio assets.
